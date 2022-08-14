@@ -9,7 +9,7 @@ The website focuses on implementing the basics of HTML and CSS to create this We
 - flex
 - background-position
 
-## [Live Preview](https://project07.vercel.app/)
+## [Live Preview](https://project08-lyart.vercel.app/)
 
 ### SnapShot of the Webpage
 
